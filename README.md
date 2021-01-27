@@ -11,4 +11,4 @@ Sequencing reads and pre-processed data are available in the NCBI Gene Expressio
 
 ## Contact
 
-Please email Colleen if you have any questions cnm_at_stanford_dot_edu. 
+Please email Colleen if you have any questions: cnm_at_stanford_dot_edu
