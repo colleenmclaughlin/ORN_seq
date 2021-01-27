@@ -1,0 +1,14 @@
+ORNnuclei_adult_nSybUNC84GFP_P7_P14
+ORN_10day_nuclei_P2_A14
+ORN_10day_nuclei_P2_B11
+ORN_10day_nuclei_P2_E23
+ORN_10day_nuclei_P2_J3
+ORN_10day_nuclei_P2_M19
+ORN_10day_nuclei_P3_C22
+ORN_10day_nuclei_P3_D18
+ORN_10day_nuclei_P3_G10
+ORN_10day_nuclei_P3_K22
+ORN_10day_nuclei_P3_M18
+ORN_10day_nuclei_P3_M3
+ORN_10day_nuclei_P3_O16
+ORN_10day_nuclei_P3_O20
