@@ -1,4 +1,4 @@
-# Single-cell-transcriptomes-of-developing-and-adult-olfactory-receptor-neurons-in-Drosophila
+# Single cell transcriptomes of developing and adult olfactory receptor neurons in Drosophila
 Analysis of single-cell/nucleus transcriptomes of developing and adult olfactory receptor neurons from [McLaughlin et al., 2020](https://www.biorxiv.org/content/10.1101/2020.10.08.332130v1). 
 
 ## Environment
